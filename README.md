@@ -8,3 +8,5 @@ At the heart of this experience is Gemini, the engine driving dynamic storytelli
 Given only the foundational story elements, Gemini builds and expands the narrative, creating branching paths that boost replayability. It adjusts the game's complexity to match the player's chosen difficulty level, tailoring the experience to individual preferences. By providing hints and solutions, Gemini ensures a balanced, engaging adventure for all players.
 
 Essentially, Gemini transforms static storylines into living, breathing narratives, offering players a truly unique and immersive mystery adventure.
+
+Play the game : noirchronicles.netlify.app
